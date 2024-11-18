@@ -1,4 +1,4 @@
-# Sales & Customer Analysis Dashboards
+# Sales & Customer Analysis Dashboards [Tableau Public](https://public.tableau.com/app/profile/jatin.yadav2805/viz/SalesandCustomers_17319153873710/SalesDashboard)
 
 ## Introduction
 This project outlines the development of **two Tableau dashboards**: a **Sales Dashboard** and a **Customer Dashboard**. These dashboards are designed to assist stakeholders, including sales managers, executives, and marketing teams, in analyzing sales performance, customer behaviors, and trends. 
